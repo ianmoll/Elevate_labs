@@ -50,6 +50,7 @@ Performed using Power BI Power Query:
 
 ## 📸 Dashboard Preview
 > ** https://github.com/ianmoll/Elevate_labs/blob/main/Day_4/1_Sales.png **
+> ** https://github.com/ianmoll/Elevate_labs/blob/main/Day_4/2_Profit.png **
 
 ---
 
