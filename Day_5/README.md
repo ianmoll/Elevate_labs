@@ -13,3 +13,6 @@ This folder contains a simple machine learning project based on the Titanic data
 - Pandas
 - Seaborn
 - Matplotlib
+
+🧠 Learnings & Takeaways
+- Gain skill in finding patterns, trends, and anomalies.
