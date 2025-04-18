@@ -1,15 +1,16 @@
 🛒 SuperStore Sales Power BI Dashboard
 📌 Project Overview
-This Power BI dashboard provides a comprehensive overview of an Superstore’s performance using real-world inspired sales data. The dashboard helps buisness people track key business metrics, identify trends, and make data-driven decisions to boost revenue and customer satisfaction.
+--This Power BI dashboard provides a comprehensive overview of an Superstore’s performance using real-world inspired sales data. The dashboard helps buisness people track key business metrics, identify trends, and make data-driven decisions to boost revenue and customer satisfaction.
 
 🎯 Objective
-To visualize and analyze Sales performance by tracking sales, customer behavior, product demand, and profitability KPIs through an interactive Power BI dashboard.
+--To visualize and analyze Sales performance by tracking sales, customer behavior, product demand, and profitability KPIs through an interactive Power BI dashboard.
 
 📊 KPIs Tracked
-Total Sales
-Total Orders
-Total Profit
-Total Quantity
+-`Total Sales`
+-`Total Orders`
+-`Total Profit`
+-`Total Quantity`
+
 🔍 Key Insights
 Top-selling Sub-Categories & Categories identified.
 Sales distribution by Categories/ Segment/ Region/ Ship-Mode.
